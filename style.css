@@ -1,0 +1,60 @@
+/* Base CSS */
+.alignleft {
+    float: left;
+    margin-right: 15px;
+}
+.alignright {
+    float: right;
+    margin-left: 15px;
+}
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px;
+}
+a:focus { outline: 0 solid; }
+img {
+    max-width: 100%;
+    height: auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 15px;
+    font-weight: 700;
+    font-family: 'Yeseva One', cursive;
+}
+html,
+body { height: 100% }
+body {
+    font-family: 'Gentium Book Basic', serif;
+    font-size: 16px;
+    background-color:azure;
+}
+a:hover { text-decoration: none; }
+
+.top , .select {
+    padding-bottom: 50px;
+}
+.away_lose, .home_lose {
+    background-color: rgba(217,83,79,0.5); 
+}
+.away_win, .home_win {
+    background-color: rgba(92,184,92,0.5); 
+}
+
+.readme {
+    margin: 0px auto;
+	text-align: center;
+    font-size: 40px;
+}
+th {
+	text-align: center;
+}
+
+/* Remove Chrome Input Field's Unwanted Yellow Background Color */
+input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus {
+    -webkit-box-shadow: 0 0 0px 1000px white inset !important;
+}

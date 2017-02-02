@@ -1,0 +1,77 @@
+[
+	{
+		"Name" : "ARI",
+		"Win" : 65,
+		"Lose" : 69
+	},
+	{
+		"Name" : "ATL",
+		"Win" : 54,
+		"Lose" : 79
+	},
+	{
+		"Name" : "CHC",
+		"Win" : 75,
+		"Lose" : 57
+	},
+	{
+		"Name" : "CIN",
+		"Win" : 55,
+		"Lose" : 77
+	},
+	{
+		"Name" : "COL",
+		"Win" : 54,
+		"Lose" : 78
+	},
+	{
+		"Name" : "LAD",
+		"Win" : 75,
+		"Lose" : 57
+	},
+	{
+		"Name" : "MIA",
+		"Win" : 55,
+		"Lose" : 79
+	},
+	{
+		"Name" : "MIL",
+		"Win" : 57,
+		"Lose" : 75
+	},
+	{
+		"Name" : "NYM",
+		"Win" : 74,
+		"Lose" : 59
+	},
+	{
+		"Name" : "PHI",
+		"Win" : 53,
+		"Lose" : 81
+	},
+	{
+		"Name" : "PIT",
+		"Win" : 79,
+		"Lose" : 52
+	},
+	{
+		"Name" : "SD",
+		"Win" : 64,
+		"Lose" : 69
+	},
+	{
+		"Name" : "SF",
+		"Win" : 69,
+		"Lose" : 64
+	},
+	{
+		"Name" : "STL",
+		"Win" : 86,
+		"Lose" : 47
+	},
+	{
+		"Name" : "WSH",
+		"Win" : 67,
+		"Lose" : 65
+	}
+]
